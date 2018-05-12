@@ -1,0 +1,33 @@
+_repo: The-Collected-Works-of-Ambrose-Bierce-Volume-8--13-Negligible-Tales-On-With-the-Dance-Epigram__15599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/44231
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+description: ''
+gutenberg_issued: '2005-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American literature'
+tableOfContents: Negligible tales -- The parenticide club -- The fourth estate --
+  The ocean wave -- "On with the dance!" a review.
+title: "The Collected Works of Ambrose Bierce, Volume 8\r\nNegligible Tales, On With\
+  \ the Dance, Epigrams"
+url: http://www.gutenberg.org/ebooks/15599
